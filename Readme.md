@@ -11,8 +11,9 @@ Use AUC_Plus_dsloa_<version> if you want unlimited duration as well.
 * All players in multiplayer need to install this mod if you plan to use it in multiplayer. Not host only.
 
 ### Installation instructions:
-* Unzip "AUC_dsloa_<version>.zip"
-* Copy "AUC_dsloa_<version>.dsres" to Resources folder
+* Download "**AUC_dsloa_<version>.zip**" or "**AUC_Plus_dsloa_<version>.zip**". **Not both**.
+* Unzip "**AUC_dsloa_<version>.zip**"
+* Copy "**AUC_dsloa_<version>.dsres**" to Resources folder
 
 ### Uninstall:
 Delete "AUC_dsloa_<version>.dsres" / "AUC_dsloa_Plus_<version>.dsres" in Resources folder. No other cleanup.
